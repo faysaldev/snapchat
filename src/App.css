@@ -1,0 +1,27 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  background: #fefc01;
+}
+
+.app .logo {
+  height: 100px;
+  object-fit: contain;
+}
+
+.app__body {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 250px;
+  height: 400px;
+  padding: 70px;
+}
+
+.appBody__bg {
+  background: white;
+  height: 400px;
+}

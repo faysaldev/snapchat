@@ -1,0 +1,15 @@
+.preview {
+  position: relative;
+}
+
+.preview img {
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.chat__timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}

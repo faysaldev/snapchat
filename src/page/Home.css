@@ -1,0 +1,15 @@
+.home {
+  position: relative;
+}
+.photo__captureBtn {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  color: white;
+  font-size: 40px !important;
+}
+.photo__captureBtn:hover {
+  opacity: 0.8;
+}

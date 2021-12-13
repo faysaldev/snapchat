@@ -1,0 +1,17 @@
+.login {
+  background: #feff00;
+}
+
+.login img {
+  height: 300px;
+  object-fit: contain;
+}
+
+.login__contant {
+  display: flex;
+  flex-direction: column;
+}
+
+.login__contant button {
+  font-weight: 600;
+}
